@@ -1,4 +1,4 @@
 #!/bin/bash
 
-echo " learning jenkins "
+echo " learning jenkins. with webhook "
 
